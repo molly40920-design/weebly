@@ -1,0 +1,16 @@
+{
+  "siteId": "504508816679558579",
+  "weeblyDashboardUrl": "https://www.weebly.com/app/home",
+  "siteEditorUrl": "https://www.weebly.com/editor/main.php",
+  "blogPath": "/blog",
+  "viewport": {
+    "width": 1280,
+    "height": 900
+  },
+  "coordinates": {
+    "textTool": { "x": 40, "y": 150, "label": "T 文字元件" },
+    "imageTool": { "x": 40, "y": 240, "label": "🖼️ 圖片元件" },
+    "dropZoneImage": { "x": 640, "y": 450, "label": "圖片拖曳目標（正文中央）" },
+    "dropZoneText": { "x": 640, "y": 600, "label": "文字拖曳目標（圖片下方）" }
+  }
+}
